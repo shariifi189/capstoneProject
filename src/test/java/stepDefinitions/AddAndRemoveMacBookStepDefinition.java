@@ -22,7 +22,8 @@ public class AddAndRemoveMacBookStepDefinition extends Base {
 		Log.info("user click on laptop and notebook tab");
 	
 	}
-
+ 
+	////
 	@When("^User click on Show all Laptop and NoteBookOption$")
 	public void user_click_on_Show_all_Laptop_and_NoteBookOption() throws Throwable {
 

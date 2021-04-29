@@ -1088,3 +1088,12 @@
 2021-03-28 22:55:23,634 - logger_File -INFO - User enter password
 2021-03-28 22:55:24,253 - logger_File -INFO - User click on Login button
 2021-03-28 22:55:28,248 - logger_File -INFO - Retail Page Feature   passed
+2021-03-29 17:41:52,256 - logger_File -INFO - Scenario Retail Page Feature Started 
+2021-03-29 17:41:56,392 - logger_File -INFO - Retail page is opened
+2021-03-29 17:41:56,405 - logger_File -INFO - Page title  is verified
+2021-03-29 17:41:56,892 - logger_File -INFO - user click on my account
+2021-03-29 17:41:57,124 - logger_File -INFO - User click on Login
+2021-03-29 17:42:00,527 - logger_File -INFO - User enter email address
+2021-03-29 17:42:00,598 - logger_File -INFO - User enter password
+2021-03-29 17:42:01,185 - logger_File -INFO - User click on Login button
+2021-03-29 17:42:05,177 - logger_File -INFO - Retail Page Feature   passed
