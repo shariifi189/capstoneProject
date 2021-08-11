@@ -7,7 +7,8 @@ import org.openqa.selenium.support.PageFactory;
 import core.Base;
 import utilities.WebDriverUtility;
 
-public class SearchPageObject extends Base {
+public class SearchPageObject extends Base{
+	
 	
 	public SearchPageObject() {
 		
@@ -15,18 +16,40 @@ public class SearchPageObject extends Base {
 		
 	}
 	
-	@FindBy(xpath ="(//button[@type='button'])[4]")
+	
+	@FindBy(xpath = "//input[@name='search']")
+	private WebElement searchBar;
+	
+	@FindBy(xpath ="//button[@class='btn btn-default btn-lg']")
 	private WebElement searchButton;
 	
+	@FindBy(xpath = "//img[@title='iPhone']")
+	private WebElement iphoneImage;
+	
 
-	public void userClickOnSearchButton() {
+	
+	public void enterValueToSeachBar(String value) {
 		
-		WebDriverUtility.clickOnElement(searchButton);
-		WebDriverUtility.wait(5000);
-		
+		WebDriverUtility.enterValue(searchBar, value);
 	}
 	
 	
+	public void clickOnSearchButton() {
+		WebDriverUtility.clickOnElement(searchButton);
+	}
+	
+	public boolean iphoneImageIsDisplayed() {
+		
+		if(iphoneImage.isDisplayed())
+			
+			return true;
+		else
+			return false;
+		
+	}
+	
+
 	
 	
+
 }

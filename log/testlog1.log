@@ -1097,3 +1097,363 @@
 2021-03-29 17:42:00,598 [main] INFO logger_File - User enter password
 2021-03-29 17:42:01,185 [main] INFO logger_File - User click on Login button
 2021-03-29 17:42:05,177 [main] INFO logger_File - Retail Page Feature   passed
+2021-06-06 13:40:50,826 [main] INFO logger_File - Scenario Retail Page Feature Started 
+2021-06-06 13:41:45,957 [main] INFO logger_File - Retail page is opened
+2021-06-06 13:41:45,976 [main] INFO logger_File - Page title  is verified
+2021-06-06 13:41:46,341 [main] INFO logger_File - user click on my account
+2021-06-06 13:41:46,826 [main] INFO logger_File - User click on Login
+2021-06-06 13:41:50,102 [main] INFO logger_File - User enter email address
+2021-06-06 13:41:50,165 [main] INFO logger_File - User enter password
+2021-06-06 13:41:50,810 [main] INFO logger_File - User click on Login button
+2021-06-06 13:41:54,749 [main] INFO logger_File - Retail Page Feature   passed
+2021-06-10 20:03:26,301 [main] INFO logger_File - Scenario search functionality Test Case Started 
+2021-06-10 20:03:29,761 [main] INFO logger_File - search functionality Test Case   undefined
+2021-06-10 20:08:04,294 [main] INFO logger_File - Scenario search functionality Test Case Started 
+2021-06-10 20:08:07,126 [main] INFO logger_File - search functionality Test Case   undefined
+2021-06-10 20:11:09,576 [main] INFO logger_File - Scenario search functionality Test Case Started 
+2021-06-10 20:11:12,316 [main] INFO logger_File - search functionality Test Case   undefined
+2021-06-10 20:20:36,228 [main] INFO logger_File - Scenario search functionality Test Case Started 
+2021-06-10 20:21:24,299 [main] INFO logger_File - search functionality Test Case   failed
+2021-06-10 20:22:47,157 [main] INFO logger_File - Scenario search functionality Test Case Started 
+2021-06-10 20:23:46,216 [main] INFO logger_File - Scenario search functionality Test Case Started 
+2021-06-10 20:24:34,238 [main] INFO logger_File - search functionality Test Case   failed
+2021-06-10 20:26:29,595 [main] INFO logger_File - Scenario search functionality Test Case Started 
+2021-06-10 20:27:17,752 [main] INFO logger_File - search functionality Test Case   failed
+2021-06-10 20:33:35,013 [main] INFO logger_File - Scenario search functionality Test Case Started 
+2021-06-10 20:34:22,996 [main] INFO logger_File - search functionality Test Case   failed
+2021-06-10 20:34:23,397 [main] INFO logger_File - Scenario search functionality Test Case Started 
+2021-06-10 20:35:11,340 [main] INFO logger_File - search functionality Test Case   failed
+2021-06-10 20:47:39,979 [main] INFO logger_File - Scenario search functionality Test Case Started 
+2021-06-10 20:48:27,913 [main] INFO logger_File - search functionality Test Case   failed
+2021-06-10 20:49:22,836 [main] INFO logger_File - Scenario search functionality Test Case Started 
+2021-06-10 20:50:10,762 [main] INFO logger_File - search functionality Test Case   failed
+2021-06-10 20:52:01,218 [main] INFO logger_File - Scenario search functionality Test Case Started 
+2021-06-10 20:52:49,154 [main] INFO logger_File - search functionality Test Case   failed
+2021-06-10 20:54:03,258 [main] INFO logger_File - Scenario Verify MacBook is present in webpage Started 
+2021-06-10 20:54:06,716 [main] INFO logger_File - Retail page is opened
+2021-06-10 20:54:06,736 [main] INFO logger_File - Page title  is verified
+2021-06-10 20:54:07,137 [main] INFO logger_File - user enterd macBook in to search bar
+2021-06-10 20:54:07,139 [main] INFO logger_File - user enter value into search bar
+2021-06-10 20:54:08,685 [main] INFO logger_File - Verify MacBook is present in webpage   passed
+2021-06-10 20:55:49,216 [main] INFO logger_File - Scenario Verify MacBook is present in webpage Started 
+2021-06-10 20:55:52,482 [main] INFO logger_File - Retail page is opened
+2021-06-10 20:55:52,497 [main] INFO logger_File - Page title  is verified
+2021-06-10 20:55:52,885 [main] INFO logger_File - user enterd macBook in to search bar
+2021-06-10 20:55:52,886 [main] INFO logger_File - user enter value into search bar
+2021-06-10 20:55:54,291 [main] INFO logger_File - Verify MacBook is present in webpage   passed
+2021-06-10 20:56:21,021 [main] INFO logger_File - Scenario search functionality Test Case Started 
+2021-06-10 20:56:23,743 [main] INFO logger_File - search functionality Test Case   undefined
+2021-06-10 20:57:53,025 [main] INFO logger_File - Scenario search functionality Test Case Started 
+2021-06-10 20:58:41,033 [main] INFO logger_File - search functionality Test Case   failed
+2021-06-10 20:59:06,525 [main] INFO logger_File - Scenario search functionality Test Case Started 
+2021-06-10 20:59:09,920 [main] INFO logger_File - Retail page is opened
+2021-06-10 20:59:09,936 [main] INFO logger_File - Page title  is verified
+2021-06-10 20:59:10,355 [main] INFO logger_File - user enter iphone to search bar
+2021-06-10 20:59:10,669 [main] INFO logger_File - user click on search button
+2021-06-10 20:59:56,513 [main] INFO logger_File - search functionality Test Case   failed
+2021-06-10 21:03:07,091 [main] INFO logger_File - Scenario search functionality Test Case Started 
+2021-06-10 21:03:10,647 [main] INFO logger_File - Retail page is opened
+2021-06-10 21:03:10,665 [main] INFO logger_File - Page title  is verified
+2021-06-10 21:03:11,113 [main] INFO logger_File - user enter iphone to search bar
+2021-06-10 21:03:11,516 [main] INFO logger_File - user click on search button
+2021-06-10 21:03:11,574 [main] INFO logger_File - user should see iphone image
+2021-06-10 21:03:12,537 [main] INFO logger_File - search functionality Test Case   passed
+2021-06-11 15:07:55,536 [main] INFO logger_File - Scenario Test search functionality with multiple set of Data Started 
+2021-06-11 15:08:11,743 [main] INFO logger_File - Retail page is opened
+2021-06-11 15:08:11,774 [main] INFO logger_File - Page title  is verified
+2021-06-11 15:08:12,274 [main] INFO logger_File - user enter iphone to search bar
+2021-06-11 15:08:12,777 [main] INFO logger_File - user click on search button
+2021-06-11 15:08:13,551 [main] INFO logger_File - Test search functionality with multiple set of Data   passed
+2021-06-11 15:08:13,557 [main] INFO logger_File - Scenario Test search functionality with multiple set of Data Started 
+2021-06-11 15:08:40,682 [main] INFO logger_File - Retail page is opened
+2021-06-11 15:08:45,411 [main] INFO logger_File - Test search functionality with multiple set of Data   failed
+2021-06-11 15:08:45,416 [main] INFO logger_File - Scenario Test search functionality with multiple set of Data Started 
+2021-06-11 15:09:32,575 [main] INFO logger_File - Test search functionality with multiple set of Data   failed
+2021-06-11 15:09:32,580 [main] INFO logger_File - Scenario Test search functionality with multiple set of Data Started 
+2021-06-11 15:09:47,435 [main] INFO logger_File - Retail page is opened
+2021-06-11 15:09:47,456 [main] INFO logger_File - Page title  is verified
+2021-06-11 15:09:47,780 [main] INFO logger_File - user enter iphone to search bar
+2021-06-11 15:09:48,478 [main] INFO logger_File - user click on search button
+2021-06-11 15:09:49,248 [main] INFO logger_File - Test search functionality with multiple set of Data   passed
+2021-06-11 15:09:49,253 [main] INFO logger_File - Scenario Test search functionality with multiple set of Data Started 
+2021-06-11 15:10:01,855 [main] INFO logger_File - Retail page is opened
+2021-06-11 15:10:01,866 [main] INFO logger_File - Page title  is verified
+2021-06-11 15:10:02,163 [main] INFO logger_File - user enter iphone to search bar
+2021-06-11 15:10:02,478 [main] INFO logger_File - user click on search button
+2021-06-11 15:10:03,190 [main] INFO logger_File - Test search functionality with multiple set of Data   passed
+2021-06-11 15:10:03,194 [main] INFO logger_File - Scenario Test search functionality with multiple set of Data Started 
+2021-06-11 15:10:12,283 [main] INFO logger_File - Retail page is opened
+2021-06-11 15:10:12,308 [main] INFO logger_File - Page title  is verified
+2021-06-11 15:10:12,719 [main] INFO logger_File - user enter iphone to search bar
+2021-06-11 15:10:13,071 [main] INFO logger_File - user click on search button
+2021-06-11 15:10:13,806 [main] INFO logger_File - Test search functionality with multiple set of Data   passed
+2021-06-11 15:11:54,428 [main] INFO logger_File - Scenario Test search functionality with multiple set of Data Started 
+2021-06-11 15:12:10,538 [main] INFO logger_File - Retail page is opened
+2021-06-11 15:12:10,556 [main] INFO logger_File - Page title  is verified
+2021-06-11 15:12:11,081 [main] INFO logger_File - user enter iphone to search bar
+2021-06-11 15:12:11,464 [main] INFO logger_File - user click on search button
+2021-06-11 15:12:15,240 [main] INFO logger_File - Test search functionality with multiple set of Data   passed
+2021-06-11 15:12:15,244 [main] INFO logger_File - Scenario Test search functionality with multiple set of Data Started 
+2021-06-11 15:12:20,017 [main] INFO logger_File - Retail page is opened
+2021-06-11 15:12:20,032 [main] INFO logger_File - Page title  is verified
+2021-06-11 15:12:20,335 [main] INFO logger_File - user enter iphone to search bar
+2021-06-11 15:12:20,634 [main] INFO logger_File - user click on search button
+2021-06-11 15:12:24,340 [main] INFO logger_File - Test search functionality with multiple set of Data   passed
+2021-06-11 15:12:50,832 [main] INFO logger_File - Scenario Test search functionality with multiple set of Data Started 
+2021-06-11 15:13:39,275 [main] INFO logger_File - Test search functionality with multiple set of Data   failed
+2021-06-11 15:13:39,279 [main] INFO logger_File - Scenario Test search functionality with multiple set of Data Started 
+2021-06-11 15:13:42,411 [main] INFO logger_File - Retail page is opened
+2021-06-11 15:13:42,424 [main] INFO logger_File - Page title  is verified
+2021-06-11 15:13:42,768 [main] INFO logger_File - user enter iphone to search bar
+2021-06-11 15:13:43,161 [main] INFO logger_File - user click on search button
+2021-06-11 15:13:46,982 [main] INFO logger_File - Test search functionality with multiple set of Data   passed
+2021-06-11 15:13:54,391 [main] INFO logger_File - Scenario Test search functionality with multiple set of Data Started 
+2021-06-11 15:14:42,534 [main] INFO logger_File - Test search functionality with multiple set of Data   failed
+2021-06-11 15:14:42,539 [main] INFO logger_File - Scenario Test search functionality with multiple set of Data Started 
+2021-06-11 15:14:45,683 [main] INFO logger_File - Retail page is opened
+2021-06-11 15:14:45,701 [main] INFO logger_File - Page title  is verified
+2021-06-11 15:14:46,110 [main] INFO logger_File - user enter iphone to search bar
+2021-06-11 15:14:46,473 [main] INFO logger_File - user click on search button
+2021-06-11 15:14:50,187 [main] INFO logger_File - Test search functionality with multiple set of Data   passed
+2021-06-11 15:15:58,413 [main] INFO logger_File - Scenario Test search functionality with multiple set of Data Started 
+2021-06-11 15:16:12,770 [main] INFO logger_File - Retail page is opened
+2021-06-11 15:16:12,793 [main] INFO logger_File - Page title  is verified
+2021-06-11 15:16:13,267 [main] INFO logger_File - user enter iphone to search bar
+2021-06-11 15:16:14,041 [main] INFO logger_File - user click on search button
+2021-06-11 15:16:17,739 [main] INFO logger_File - Test search functionality with multiple set of Data   passed
+2021-06-11 15:16:17,744 [main] INFO logger_File - Scenario Test search functionality with multiple set of Data Started 
+2021-06-11 15:16:20,700 [main] INFO logger_File - Retail page is opened
+2021-06-11 15:16:20,717 [main] INFO logger_File - Page title  is verified
+2021-06-11 15:16:21,038 [main] INFO logger_File - user enter iphone to search bar
+2021-06-11 15:16:21,506 [main] INFO logger_File - user click on search button
+2021-06-11 15:16:25,248 [main] INFO logger_File - Test search functionality with multiple set of Data   passed
+2021-06-14 11:52:07,682 [main] INFO logger_File - Scenario  Started 
+2021-06-14 11:52:12,797 [main] INFO logger_File -    undefined
+2021-06-14 13:08:58,617 [main] INFO logger_File - Scenario  Started 
+2021-06-14 13:09:46,642 [main] INFO logger_File -    failed
+2021-06-14 13:24:52,850 [main] INFO logger_File - Scenario  Started 
+2021-06-14 13:25:43,860 [main] INFO logger_File - Scenario  Started 
+2021-06-14 13:26:31,890 [main] INFO logger_File -    failed
+2021-06-14 13:26:59,813 [main] INFO logger_File - Scenario search functionality Test Case Started 
+2021-06-14 13:27:47,916 [main] INFO logger_File - search functionality Test Case   failed
+2021-06-14 13:29:17,792 [main] INFO logger_File - Scenario search functionality Test Case Started 
+2021-06-14 13:30:05,713 [main] INFO logger_File - search functionality Test Case   failed
+2021-06-14 13:30:15,479 [main] INFO logger_File - Scenario search functionality Test Case Started 
+2021-06-15 13:09:27,767 [main] INFO logger_File - Scenario  Started 
+2021-06-15 13:10:16,130 [main] INFO logger_File -    failed
+2021-06-15 13:12:42,876 [main] INFO logger_File - Scenario search functionality Test Case Started 
+2021-06-15 13:13:30,788 [main] INFO logger_File - search functionality Test Case   failed
+2021-06-15 13:19:04,076 [main] INFO logger_File - Scenario search functionality Test Case Started 
+2021-06-15 13:20:19,006 [main] INFO logger_File - Scenario Add and Remove MacBookt to the cart Started 
+2021-06-15 13:21:06,873 [main] INFO logger_File - Add and Remove MacBookt to the cart   failed
+2021-06-15 15:27:13,279 [main] INFO logger_File - Scenario Add and Remove MacBookt to the cart Started 
+2021-06-15 15:28:01,402 [main] INFO logger_File - Add and Remove MacBookt to the cart   failed
+2021-06-15 15:28:54,379 [main] INFO logger_File - Scenario Add and Remove MacBookt to the cart Started 
+2021-06-15 15:52:27,242 [main] INFO logger_File - Scenario Add and Remove MacBookt to the cart Started 
+2021-06-15 15:53:51,502 [main] INFO logger_File - Scenario Add and Remove MacBookt to the cart Started 
+2021-06-15 15:59:44,939 [main] INFO logger_File - Scenario Add and Remove MacBookt to the cart Started 
+2021-06-15 16:02:48,711 [main] INFO logger_File - Scenario Add and Remove MacBookt to the cart Started 
+2021-06-15 16:03:36,719 [main] INFO logger_File - Add and Remove MacBookt to the cart   failed
+2021-06-15 16:03:37,309 [main] INFO logger_File - Scenario Add and Remove MacBookt to the cart Started 
+2021-06-15 16:04:14,100 [main] INFO logger_File - Scenario Add and Remove MacBookt to the cart Started 
+2021-06-15 16:05:02,007 [main] INFO logger_File - Add and Remove MacBookt to the cart   failed
+2021-06-15 16:22:03,950 [main] INFO logger_File - Scenario search functionality Test Case Started 
+2021-06-15 16:22:52,201 [main] INFO logger_File - search functionality Test Case   failed
+2021-06-15 16:24:38,124 [main] INFO logger_File - Scenario search functionality Test Case Started 
+2021-06-15 16:25:26,060 [main] INFO logger_File - search functionality Test Case   failed
+2021-06-15 16:27:31,356 [main] INFO logger_File - Scenario search functionality Test Case Started 
+2021-06-15 16:28:19,257 [main] INFO logger_File - search functionality Test Case   failed
+2021-06-15 22:06:40,141 [main] INFO logger_File - Scenario Seach Funtion Started 
+2021-06-15 22:06:42,922 [main] INFO logger_File - Seach Funtion   undefined
+2021-06-15 22:09:02,291 [main] INFO logger_File - Scenario Seach Funtion Started 
+2021-06-15 22:09:05,068 [main] INFO logger_File - Seach Funtion   undefined
+2021-06-15 22:14:48,486 [main] INFO logger_File - Scenario Seach Funtion Started 
+2021-06-15 22:14:51,423 [main] INFO logger_File - Seach Funtion   undefined
+2021-06-16 09:43:45,309 [main] INFO logger_File - Scenario Seach Funtion Started 
+2021-06-16 09:43:45,855 [main] INFO logger_File - Scenario Seach Funtion Started 
+2021-06-16 09:43:50,830 [main] INFO logger_File - Seach Funtion   undefined
+2021-06-16 09:43:51,048 [main] INFO logger_File - Seach Funtion   undefined
+2021-06-16 09:47:37,930 [main] INFO logger_File - Scenario Seach Funtion Started 
+2021-06-16 09:48:26,156 [main] INFO logger_File - Seach Funtion   failed
+2021-06-16 09:49:32,540 [main] INFO logger_File - Scenario Seach Funtion Started 
+2021-06-16 09:50:20,830 [main] INFO logger_File - Seach Funtion   failed
+2021-06-16 10:29:56,974 [main] INFO logger_File - Scenario Seach Funtion Started 
+2021-06-16 10:30:45,175 [main] INFO logger_File - Seach Funtion   failed
+2021-06-16 12:08:55,783 [main] INFO logger_File - Scenario Search Feature function Started 
+2021-06-16 12:09:00,678 [main] INFO logger_File - Search Feature function   undefined
+2021-06-16 12:09:00,683 [main] INFO logger_File - Scenario Seach Funtion Started 
+2021-06-16 12:18:30,294 [main] INFO logger_File - Scenario Search Feature function Started 
+2021-06-16 12:18:33,220 [main] INFO logger_File - Search Feature function   undefined
+2021-06-16 12:18:33,227 [main] INFO logger_File - Scenario Seach Funtion Started 
+2021-06-16 12:19:20,565 [main] INFO logger_File - Seach Funtion   failed
+2021-06-16 12:20:03,793 [main] INFO logger_File - Scenario Search Feature function Started 
+2021-06-16 12:20:06,404 [main] INFO logger_File - Search Feature function   undefined
+2021-06-16 12:20:06,413 [main] INFO logger_File - Scenario Seach Funtion Started 
+2021-06-16 12:20:08,387 [main] INFO logger_File - Seach Funtion   undefined
+2021-06-16 12:24:21,911 [main] INFO logger_File - Scenario Search Feature function Started 
+2021-06-16 12:24:24,828 [main] INFO logger_File - Search Feature function   undefined
+2021-06-16 12:24:24,836 [main] INFO logger_File - Scenario Seach Funtion Started 
+2021-06-16 12:24:26,873 [main] INFO logger_File - Seach Funtion   undefined
+2021-06-16 12:25:35,615 [main] INFO logger_File - Scenario Seach Funtion Started 
+2021-06-16 12:25:38,514 [main] INFO logger_File - Seach Funtion   undefined
+2021-06-16 12:31:42,764 [main] INFO logger_File - Scenario Seach Funtion Started 
+2021-06-16 12:31:49,704 [main] INFO logger_File - Seach Funtion   undefined
+2021-06-16 12:38:20,877 [main] INFO logger_File - Scenario Seach Funtion Started 
+2021-06-16 12:39:38,603 [main] INFO logger_File - Scenario Seach Funtion Started 
+2021-06-16 12:42:47,260 [main] INFO logger_File - Scenario Seach Funtion Started 
+2021-06-16 12:43:39,382 [main] INFO logger_File - Seach Funtion   failed
+2021-06-16 12:53:55,044 [main] INFO logger_File - Scenario Seach Funtion Started 
+2021-06-16 13:01:24,793 [main] INFO logger_File - Scenario Seach Funtion Started 
+2021-06-16 13:01:28,777 [main] INFO logger_File - user enters value to search bar
+2021-06-16 13:01:29,531 [main] INFO logger_File - user click on the search button
+2021-06-16 13:01:29,592 [main] INFO logger_File - user should see iphone image
+2021-06-16 13:01:34,468 [main] INFO logger_File - Seach Funtion   passed
+2021-06-16 18:43:24,439 [main] INFO logger_File - Scenario Seach Funtion Started 
+2021-06-16 18:43:28,767 [main] INFO logger_File - user enters value to search bar
+2021-06-16 18:43:29,082 [main] INFO logger_File - user click on the search button
+2021-06-16 18:43:29,140 [main] INFO logger_File - user should see iphone image
+2021-06-16 18:43:34,227 [main] INFO logger_File - Seach Funtion   passed
+2021-06-21 17:11:35,994 [main] INFO logger_File - Scenario Seach Funtion Started 
+2021-06-21 17:11:40,463 [main] INFO logger_File - Retail page is opened
+2021-06-21 17:11:40,465 [main] INFO logger_File - Page title  is verified
+2021-06-21 17:11:40,908 [main] INFO logger_File - user enters value to search bar
+2021-06-21 17:11:41,262 [main] INFO logger_File - user click on the search button
+2021-06-21 17:11:41,337 [main] INFO logger_File - user should see iphone image
+2021-06-21 17:11:46,331 [main] INFO logger_File - Seach Funtion   passed
+2021-06-21 17:55:56,309 [main] INFO logger_File - Scenario Search Functionality Started 
+2021-06-21 17:56:00,929 [main] INFO logger_File - Retail page is opened
+2021-06-21 17:56:00,931 [main] INFO logger_File - Page title  is verified
+2021-06-21 17:56:06,055 [main] INFO logger_File - Search Functionality   undefined
+2021-06-21 17:56:06,060 [main] INFO logger_File - Scenario Search Functionality Started 
+2021-06-21 17:56:10,331 [main] INFO logger_File - Retail page is opened
+2021-06-21 17:56:10,332 [main] INFO logger_File - Page title  is verified
+2021-06-21 17:56:15,356 [main] INFO logger_File - Search Functionality   undefined
+2021-06-21 17:56:15,363 [main] INFO logger_File - Scenario Search Functionality Started 
+2021-06-21 17:56:21,377 [main] INFO logger_File - Retail page is opened
+2021-06-21 17:56:21,378 [main] INFO logger_File - Page title  is verified
+2021-06-21 17:56:26,387 [main] INFO logger_File - Search Functionality   undefined
+2021-06-21 17:56:26,394 [main] INFO logger_File - Scenario Search Functionality Started 
+2021-06-21 17:56:31,644 [main] INFO logger_File - Retail page is opened
+2021-06-21 17:56:31,646 [main] INFO logger_File - Page title  is verified
+2021-06-21 17:56:36,684 [main] INFO logger_File - Search Functionality   undefined
+2021-06-21 18:02:51,238 [main] INFO logger_File - Scenario Search Functionality Started 
+2021-06-21 18:02:54,928 [main] INFO logger_File - Retail page is opened
+2021-06-21 18:02:54,929 [main] INFO logger_File - Page title  is verified
+2021-06-21 18:02:55,345 [main] INFO logger_File - user enters value to search bar
+2021-06-21 18:03:00,229 [main] INFO logger_File - Search Functionality   failed
+2021-06-21 18:03:00,235 [main] INFO logger_File - Scenario Search Functionality Started 
+2021-06-21 18:03:02,956 [main] INFO logger_File - Retail page is opened
+2021-06-21 18:03:02,957 [main] INFO logger_File - Page title  is verified
+2021-06-21 18:03:03,293 [main] INFO logger_File - user enters value to search bar
+2021-06-21 18:03:08,154 [main] INFO logger_File - Search Functionality   failed
+2021-06-21 18:03:08,160 [main] INFO logger_File - Scenario Search Functionality Started 
+2021-06-21 18:03:10,817 [main] INFO logger_File - Retail page is opened
+2021-06-21 18:03:10,817 [main] INFO logger_File - Page title  is verified
+2021-06-21 18:03:11,118 [main] INFO logger_File - user enters value to search bar
+2021-06-21 18:03:19,886 [main] INFO logger_File - Search Functionality   failed
+2021-06-21 18:03:19,893 [main] INFO logger_File - Scenario Search Functionality Started 
+2021-06-21 18:03:22,555 [main] INFO logger_File - Retail page is opened
+2021-06-21 18:03:22,556 [main] INFO logger_File - Page title  is verified
+2021-06-21 18:03:22,859 [main] INFO logger_File - user enters value to search bar
+2021-06-21 18:03:31,612 [main] INFO logger_File - Search Functionality   failed
+2021-06-21 18:04:42,872 [main] INFO logger_File - Scenario Search Functionality Started 
+2021-06-21 18:04:48,909 [main] INFO logger_File - Retail page is opened
+2021-06-21 18:04:48,911 [main] INFO logger_File - Page title  is verified
+2021-06-21 18:04:49,333 [main] INFO logger_File - user enters value to search bar
+2021-06-21 18:04:58,103 [main] INFO logger_File - Search Functionality   undefined
+2021-06-21 18:04:58,107 [main] INFO logger_File - Scenario Search Functionality Started 
+2021-06-21 18:05:02,637 [main] INFO logger_File - Retail page is opened
+2021-06-21 18:05:02,639 [main] INFO logger_File - Page title  is verified
+2021-06-21 18:05:03,022 [main] INFO logger_File - user enters value to search bar
+2021-06-21 18:05:11,773 [main] INFO logger_File - Search Functionality   undefined
+2021-06-21 18:05:11,780 [main] INFO logger_File - Scenario Search Functionality Started 
+2021-06-21 18:05:16,104 [main] INFO logger_File - Retail page is opened
+2021-06-21 18:05:16,105 [main] INFO logger_File - Page title  is verified
+2021-06-21 18:05:16,452 [main] INFO logger_File - user enters value to search bar
+2021-06-21 18:05:25,226 [main] INFO logger_File - Search Functionality   undefined
+2021-06-21 18:05:25,232 [main] INFO logger_File - Scenario Search Functionality Started 
+2021-06-21 18:05:28,310 [main] INFO logger_File - Retail page is opened
+2021-06-21 18:05:28,312 [main] INFO logger_File - Page title  is verified
+2021-06-21 18:05:28,637 [main] INFO logger_File - user enters value to search bar
+2021-06-21 18:05:37,380 [main] INFO logger_File - Search Functionality   undefined
+2021-06-21 21:48:29,662 [main] INFO logger_File - Scenario Search Functionality Started 
+2021-06-21 21:48:35,147 [main] INFO logger_File - Retail page is opened
+2021-06-21 21:48:35,149 [main] INFO logger_File - Page title  is verified
+2021-06-21 21:48:35,599 [main] INFO logger_File - user enters value to search bar
+2021-06-21 21:48:35,975 [main] INFO logger_File - user click on the search button
+2021-06-21 21:48:40,723 [main] INFO logger_File - Search Functionality   passed
+2021-06-21 21:48:40,728 [main] INFO logger_File - Scenario Search Functionality Started 
+2021-06-21 21:48:51,952 [main] INFO logger_File - Retail page is opened
+2021-06-21 21:48:51,952 [main] INFO logger_File - Page title  is verified
+2021-06-21 21:48:52,284 [main] INFO logger_File - user enters value to search bar
+2021-06-21 21:48:54,693 [main] INFO logger_File - user click on the search button
+2021-06-21 21:48:59,412 [main] INFO logger_File - Search Functionality   passed
+2021-06-21 21:48:59,416 [main] INFO logger_File - Scenario Search Functionality Started 
+2021-06-21 21:49:02,367 [main] INFO logger_File - Retail page is opened
+2021-06-21 21:49:02,380 [main] INFO logger_File - Page title  is verified
+2021-06-21 21:49:02,686 [main] INFO logger_File - user enters value to search bar
+2021-06-21 21:49:02,934 [main] INFO logger_File - user click on the search button
+2021-06-21 21:49:07,758 [main] INFO logger_File - Search Functionality   passed
+2021-06-21 21:49:07,764 [main] INFO logger_File - Scenario Search Functionality Started 
+2021-06-21 21:49:10,570 [main] INFO logger_File - Retail page is opened
+2021-06-21 21:49:10,571 [main] INFO logger_File - Page title  is verified
+2021-06-21 21:49:10,863 [main] INFO logger_File - user enters value to search bar
+2021-06-21 21:49:11,166 [main] INFO logger_File - user click on the search button
+2021-06-21 21:49:15,935 [main] INFO logger_File - Search Functionality   passed
+2021-06-21 22:33:19,731 [main] INFO logger_File - Scenario Registeration Started 
+2021-06-21 22:33:29,386 [main] INFO logger_File - Retail page is opened
+2021-06-21 22:33:29,388 [main] INFO logger_File - Page title  is verified
+2021-06-21 22:33:34,561 [main] INFO logger_File - Registeration   undefined
+2021-06-26 08:33:59,884 [main] INFO logger_File - Scenario Registeration Started 
+2021-06-26 08:34:04,843 [main] INFO logger_File - Retail page is opened
+2021-06-26 08:34:04,845 [main] INFO logger_File - Page title  is verified
+2021-06-26 08:34:09,823 [main] INFO logger_File - Registeration   undefined
+2021-06-26 11:20:46,362 [main] INFO logger_File - Scenario Registeration Started 
+2021-06-26 11:20:50,291 [main] INFO logger_File - Retail page is opened
+2021-06-26 11:20:50,292 [main] INFO logger_File - Page title  is verified
+2021-06-26 11:20:55,469 [main] INFO logger_File - Registeration   undefined
+2021-06-26 12:10:30,155 [main] INFO logger_File - Scenario Registeration Started 
+2021-06-26 12:10:35,139 [main] INFO logger_File - Retail page is opened
+2021-06-26 12:10:35,140 [main] INFO logger_File - Page title  is verified
+2021-06-26 12:10:35,563 [main] INFO logger_File - user click on myAccount
+2021-06-26 12:10:36,471 [main] INFO logger_File - user click on register
+2021-06-26 12:10:41,217 [main] INFO logger_File - Registeration   failed
+2021-06-26 12:13:12,581 [main] INFO logger_File - Scenario Registeration Started 
+2021-06-26 12:13:16,772 [main] INFO logger_File - Retail page is opened
+2021-06-26 12:13:16,773 [main] INFO logger_File - Page title  is verified
+2021-06-26 12:13:17,216 [main] INFO logger_File - user click on myAccount
+2021-06-26 12:13:18,185 [main] INFO logger_File - user click on register
+2021-06-26 12:13:22,913 [main] INFO logger_File - Registeration   failed
+2021-06-26 12:15:01,295 [main] INFO logger_File - Scenario Registeration Started 
+2021-06-26 12:15:05,580 [main] INFO logger_File - Retail page is opened
+2021-06-26 12:15:05,581 [main] INFO logger_File - Page title  is verified
+2021-06-26 12:15:05,979 [main] INFO logger_File - user click on myAccount
+2021-06-26 12:15:06,631 [main] INFO logger_File - user click on register
+2021-06-26 12:15:07,195 [main] INFO logger_File - user filled the information form
+2021-06-26 12:15:07,582 [main] INFO logger_File - user checked provacy policy checkbox
+2021-06-26 12:15:07,827 [main] INFO logger_File - user click on continue button
+2021-06-26 12:15:57,639 [main] INFO logger_File - Registeration   failed
+2021-06-29 21:49:33,636 [main] INFO logger_File - Scenario Connecto to DB Started 
+2021-06-29 21:49:40,979 [main] INFO logger_File - Connecto to DB   undefined
+2021-06-29 22:20:34,478 [main] INFO logger_File - Scenario Connecto to DB Started 
+2021-06-29 22:20:37,220 [main] INFO logger_File - connection is estabished btw jdbc and db
+2021-06-29 22:20:37,251 [main] INFO logger_File - select * from public.actor: has been executed
+2021-06-29 22:20:37,307 [main] INFO logger_File - ResultSet is stored in a csv file in outcome foler
+2021-06-29 22:20:37,308 [main] INFO logger_File - database connection has been closed
+2021-06-29 22:20:42,059 [main] INFO logger_File - Connecto to DB   passed
+2021-06-30 09:38:09,828 [main] INFO logger_File - Scenario Connecto to DB Started 
+2021-06-30 09:38:12,711 [main] INFO logger_File - connection is estabished btw jdbc and db
+2021-06-30 09:38:12,754 [main] INFO logger_File - select * from public.actor: has been executed
+2021-06-30 09:38:12,822 [main] INFO logger_File - ResultSet is stored in a csv file in outcome foler
+2021-06-30 09:38:12,824 [main] INFO logger_File - database connection has been closed
+2021-06-30 09:38:17,541 [main] INFO logger_File - Connecto to DB   passed
+2021-08-07 13:45:51,814 [main] INFO logger_File - Scenario Connecto to DB Started 
+2021-08-07 13:45:55,900 [main] INFO logger_File - connection is estabished btw jdbc and db
+2021-08-07 13:45:55,949 [main] INFO logger_File - select * from public.actor: has been executed
+2021-08-07 13:45:55,982 [main] INFO logger_File - ResultSet is stored in a csv file in outcome foler
+2021-08-07 13:45:55,984 [main] INFO logger_File - database connection has been closed
+2021-08-07 13:46:00,676 [main] INFO logger_File - Connecto to DB   passed
+2021-08-11 10:34:16,346 [main] INFO logger_File - Scenario Seach Funtion Started 
+2021-08-11 10:34:21,037 [main] INFO logger_File - Retail page is opened
+2021-08-11 10:34:21,038 [main] INFO logger_File - Page title  is verified
+2021-08-11 10:35:15,165 [main] INFO logger_File - Seach Funtion   failed

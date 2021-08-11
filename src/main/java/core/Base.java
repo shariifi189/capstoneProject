@@ -10,7 +10,7 @@ import org.apache.log4j.PropertyConfigurator;
 import org.openqa.selenium.WebDriver;
 // this is the test.
 public class Base {
-
+ 
 	// In this class we define property of below Classes and will use them to child
 	// classes
 	// WebDriver

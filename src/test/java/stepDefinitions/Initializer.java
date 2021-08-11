@@ -60,7 +60,9 @@ public class Initializer extends Base {
 	}
 
 	@After
-	public void afterHooks(Scenario scenario) {
+	public void afterHooks(Scenario scenario) throws InterruptedException {
+		
+		Thread.sleep(4000);
 		// tear down will close browser and all tabs after each execution.
 		tearDown();
 		// get status of execution and log it 
